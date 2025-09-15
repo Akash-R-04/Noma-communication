@@ -77,10 +77,10 @@ Rate_SINR_vs_Tx_power
 📈 Results & Plots
 Below are sample outputs from the simulation:
 
-📉 [![SNR vs Transmit power](https://github.com/Akash-R-04/Noma-communication/blob/main/Figure_8_1%20(1).fig)]()
-📉 [![BER vs SNR Curve]()]()
-📈 [![Capacity vs SNR Curve]()]()
-📈 [![Outage Probability vs SNR Curve]()]()
+📉 [![SNR vs Transmit power](https://github.com/Akash-R-04/Noma-communication/blob/main/ber%20vs%20transmit%20power.jpg)]()
+📉 [![BER vs SNR Curve](https://github.com/Akash-R-04/Noma-communication/blob/main/br.jpg)]()
+📈 [![Capacity vs SNR Curve](https://github.com/Akash-R-04/Noma-communication/blob/main/capacity.jpg)]()
+📈 [![Outage Probability vs SNR Curve](https://github.com/Akash-R-04/Noma-communication/blob/main/outage%20probability.jpg)]()
 
 🔮 Future Work
 1. Multi-user (>2) NOMA scenarios
