@@ -70,17 +70,6 @@ Rate_SINR_vs_Tx_power
 
 3. Adjust parameters (SNR range, power allocation, users) inside the scripts.
 
-📂 Directory Structure
-Noma-communication/
-├── BER_vs_Tx_power.m
-├── Outage_Prob_vs_Tx_power.m
-├── Rate_SINR_vs_Tx_power.m
-├── Figure_8_1.fig
-├── Figure_8_2.fig
-├── Figure_8_3.fig
-├── Figure_8_4.fig
-└── README.md
-
 🛠️ Dependencies
 1. MATLAB R2020a or newer
 2. (Optional) Signal Processing & Communications Toolbox
@@ -88,7 +77,7 @@ Noma-communication/
 📈 Results & Plots
 Below are sample outputs from the simulation:
 
-📉 [![SNR vs Transmit power]()]()
+📉 [![SNR vs Transmit power](https://github.com/Akash-R-04/Noma-communication/blob/main/Figure_8_1%20(1).fig)]()
 📉 [![BER vs SNR Curve]()]()
 📈 [![Capacity vs SNR Curve]()]()
 📈 [![Outage Probability vs SNR Curve]()]()
